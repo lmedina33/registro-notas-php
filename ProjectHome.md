@@ -1,0 +1,1 @@
+O sistema permite aos professores criar turmas e postar as notas das suas turmas, podendo gravar e alterar todos os dados. Os alunos podem logar e ver seu boletim com suas notas, além de visualizar seu perfil e se inscrever em disciplinas.
